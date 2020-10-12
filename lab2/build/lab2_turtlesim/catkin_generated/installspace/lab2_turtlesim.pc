@@ -1,0 +1,8 @@
+prefix=/home/xavilla/ros_workspaces/lab2/install
+
+Name: lab2_turtlesim
+Description: Description of lab2_turtlesim
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

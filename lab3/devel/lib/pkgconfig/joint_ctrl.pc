@@ -1,0 +1,8 @@
+prefix=/home/xavilla/ros_workspaces/lab3/devel
+
+Name: joint_ctrl
+Description: Description of joint_ctrl
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

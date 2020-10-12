@@ -1,0 +1,8 @@
+prefix=/home/xavilla/ros_workspaces/lab2/devel
+
+Name: my_chatter
+Description: Description of my_chatter
+Version: 0.0.0
+Cflags: -I/home/xavilla/ros_workspaces/lab2/devel/include
+Libs: -L${prefix}/lib 
+Requires: rospy std_msgs message_runtime

@@ -1,0 +1,1 @@
+/home/xavilla/rethink_ws/baxter.sh

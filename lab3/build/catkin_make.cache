@@ -1,0 +1,2 @@
+forward:joint_ctrl
+-DCATKIN_DEVEL_PREFIX=/home/xavilla/ros_workspaces/lab3/devel -DCMAKE_INSTALL_PREFIX=/home/xavilla/ros_workspaces/lab3/install -G Unix Makefiles

@@ -1,0 +1,8 @@
+prefix=/home/xavilla/ros_workspaces/lab2/install
+
+Name: tflistener
+Description: Description of tflistener
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

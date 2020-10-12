@@ -1,0 +1,8 @@
+prefix=/home/xavilla/ros_workspaces/lab3/install
+
+Name: forward
+Description: Description of forward
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
